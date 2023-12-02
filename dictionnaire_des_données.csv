@@ -1,0 +1,2032 @@
+Commodities,Currency crosses,cryptos
+Gold,USD/AED,Bitcoin
+Copper,AED/JPY,Ethereum
+Silver,AED/PKR,Binance Coin
+Palladium,CAD/AED,Tether
+Platinum,CHF/AED,Cardano
+Aluminum,DKK/AED,Polkadot
+Zinc,EUR/AED,XRP
+Lead,GBP/AED,Uniswap
+Nickel,JPY/AED,Litecoin
+Tin,AED/ARS,Chainlink
+Copper,AED/AUD,THETA
+Xetra-Gold,AED/BRL,USD Coin
+MCX Aluminum Mini,AED/CAD,Bitcoin Cash
+MCX Aluminum,AED/CHF,Stellar
+MCX Copper,AED/CLP,Terra
+MCX Copper Mini,AED/CNY,Wrapped Bitcoin
+MCX Gold 1 Kg,AED/CZK,Dogecoin
+MCX Gold Guinea,AED/DKK,VeChain
+MCX Gold Mini,AED/EUR,Crypto.com Coin
+MCX Gold Petal,AED/GBP,Filecoin
+MCX Gold Petal Del,AED/HKD,Aave
+MCX Lead,AED/HUF,TRON
+MCX Lead Mini,AED/ILS,IOTA
+MCX Nickel,AED/INR,Cosmos
+MCX Nickel Mini,AED/ISK,Solana
+MCX Silver,AED/KRW,EOS
+MCX Silver Micro,AED/MAD,Avalanche
+MCX Silver Mini,AED/MXN,Monero
+MCX Zinc,AED/NOK,Bitcoin SV
+MCX Zinc Mini,AED/NZD,Kusama
+US Coffee C,AED/PHP,FTX Token
+US Cotton #2,AED/PLN,Tezos
+US Sugar #11,AED/RUB,NEM
+Orange Juice,AED/SAR,BitTorrent
+US Cocoa,AED/SEK,Algorand
+London Coffee,AED/SGD,Neo
+London Cocoa,AED/THB,Chiliz
+London Sugar,AED/TRY,Dai
+Lumber,AED/USD,Huobi Token
+MCX Cardamom,AED/VES,Hedera Hashgraph
+MCX Cotton,AED/XAF,Elrond
+MCX Crude Palm Oil,AED/XCD,SushiSwap
+MCX Kapas,AED/ZAR,Synthetix
+MCX Mentha Oil,AED/BBD,Dash
+MCX Castor Seed,AED/BHD,Theta Fuel
+Live Cattle,AED/JOD,UNUS SED LEO
+Lean Hogs,AED/NAD,The Graph
+Feeder Cattle,AED/OMR,Decred
+Brent Oil,AED/QAR,Maker
+Crude Oil WTI,AED/JMD,Zilliqa
+London Gas Oil,AED/KES,Compound
+Natural Gas,AED/LKR,Polygon
+Heating Oil,AED/RON,NEAR Protocol
+Carbon Emissions,AED/LBP,Enjin Coin
+Gasoline RBOB,AED/NPR,Ravencoin
+MCX Brent Oil,AED/PAB,Basic Attention Token
+MCX Crude Oil WTI,AED/EGP,Pundi X
+MCX Natural Gas,AED/IDR,Zcash
+London Wheat,AED/TWD,PancakeSwap
+Rough Rice,AED/MYR,Harmony
+US Soybean Oil,AED/XOF,Decentraland
+US Soybean Meal,ARS/AED,Nexo
+US Soybeans,AUD/AED,UMA
+US Wheat,BRL/AED,Ethereum Classic
+US Corn,CNY/AED,Bancor
+Oats,HKD/AED,SwissBorg
+_,ILS/AED,THORChain
+_,MXN/AED,yearn.finance
+_,NOK/AED,Holo
+_,NZD/AED,Reserve Rights
+_,PLN/AED,ICON
+_,RUB/AED,Celsius
+_,SAR/AED,0x
+_,SEK/AED,Waves
+_,SGD/AED,Fantom
+_,THB/AED,Ren
+_,TRY/AED,Siacoin
+_,TWD/AED,Revain
+_,VES/AED,Voyager Token
+_,ZAR/AED,Ontology
+_,AED/KWD,DigiByte
+_,EGP/AED,Dent
+_,KWD/AED,OKB
+_,JOD/AED,IOST
+_,EUR/AFN,OMG Network
+_,USD/AFN,Paxos Standard
+_,AFN/USD,Celo
+_,EUR/ALL,1inch
+_,GBP/ALL,Nano
+_,USD/ALL,Nano
+_,USD/AMD,Qtum
+_,EUR/AMD,Loopring
+_,RUB/AMD,Ocean Protocol
+_,AMD/RUB,Curve DAO Token
+_,EUR/ANG,Kyber Network
+_,USD/ANG,Horizen
+_,USD/AOA,MVL
+_,EUR/AOA,Bitcoin Gold
+_,ARS/BRL,Lisk
+_,ARS/HKD,Verge
+_,ARS/JPY,Fetch.ai
+_,ARS/MXN,Energy Web Token
+_,AUD/ARS,Quant
+_,BRL/ARS,Ankr
+_,CAD/ARS,Golem
+_,CHF/ARS,Bitpanda Ecosystem Token
+_,EUR/ARS,Electroneum
+_,GBP/ARS,Celer Network
+_,HKD/ARS,StormX
+_,JPY/ARS,Augur
+_,SGD/ARS,Mixin
+_,USD/ARS,IoTeX
+_,ARS/AUD,Venus
+_,ARS/CAD,FunFair
+_,ARS/CHF,Status
+_,ARS/CLP,WAX
+_,ARS/CNY,Telcoin
+_,ARS/CZK,Kin
+_,ARS/DKK,COTI
+_,ARS/EUR,Stacks
+_,ARS/GBP,Kava.io
+_,ARS/HUF,Polymath
+_,ARS/ILS,Swipe
+_,ARS/INR,MaidSafeCoin
+_,ARS/ISK,Civic
+_,ARS/KRW,TrueUSD
+_,ARS/MAD,Band Protocol
+_,ARS/NOK,Ardor
+_,ARS/NZD,Steem
+_,ARS/PHP,Orchid
+_,ARS/PKR,Aragon
+_,ARS/PLN,QuarkChain
+_,ARS/RUB,OriginTrail
+_,ARS/SAR,Utrust
+_,ARS/SEK,Serum
+_,ARS/SGD,MediBloc
+_,ARS/THB,Hifi Finance
+_,ARS/TRY,Storj
+_,ARS/USD,Origin Protocol
+_,ARS/VES,BitShares
+_,ARS/XAF,Numeraire
+_,ARS/XCD,Komodo
+_,ARS/ZAR,Bitcoin Diamond
+_,ARS/BBD,Ampleforth
+_,ARS/BHD,SingularityNET
+_,ARS/JOD,Gnosis
+_,ARS/NAD,Stratis
+_,ARS/OMR,Ark
+_,ARS/QAR,TomoChain
+_,ARS/JMD,IRISnet
+_,ARS/KES,PAC Global
+_,ARS/LKR,Wanchain
+_,ARS/RON,ABBC Coin
+_,ARS/LBP,district0x
+_,ARS/NPR,aelf
+_,ARS/PAB,Syscoin
+_,ARS/EGP,ZB Token
+_,ARS/IDR,CyberVein
+_,ARS/MYR,iExec RLC
+_,ARS/XOF,Loom Network
+_,ARS/TWD,Haven Protocol
+_,CNY/ARS,Power Ledger
+_,DKK/ARS,Unibright
+_,ILS/ARS,Hellenic Coin
+_,MXN/ARS,Populous
+_,NOK/ARS,Bytom
+_,NZD/ARS,AdEx Network
+_,PLN/ARS,Divi
+_,RUB/ARS,Centrality
+_,SAR/ARS,Request
+_,SEK/ARS,EFFORCE
+_,THB/ARS,ReddCoin
+_,TRY/ARS,Aion
+_,TWD/ARS,Gas
+_,VES/ARS,Elastos
+_,ZAR/ARS,LBRY Credits
+_,ARS/PYG,Energi
+_,ARS/UYU,Streamr
+_,ARS/COP,MonaCoin
+_,ARS/PEN,WazirX
+_,ARS/BOB,Gemini Dollar
+_,CLP/ARS,Metal
+_,PYG/ARS,Refereum
+_,UYU/ARS,Selfkey
+_,COP/ARS,SOLVE
+_,PEN/ARS,Ignis
+_,BOB/ARS,Zenon
+_,AUD/USD,Nimiq
+_,EUR/AUD,Waltonchain
+_,AUD/CAD,NKN
+_,AUD/CHF,DREP
+_,AUD/JPY,Beam
+_,AUD/NZD,Bytecoin
+_,GBP/AUD,Bluzelle
+_,AUD/PLN,Cartesi
+_,AUD/NOK,Sentinel Protocol
+_,AUD/ZAR,Nexus
+_,AUD/SGD,KuCoin Shares
+_,AUD/THB,Firo
+_,AUD/SEK,ARPA Chain
+_,AUD/CZK,AirSwap
+_,AUD/DKK,Endor Protocol
+_,AUD/HKD,NULS
+_,AUD/BRL,Function X
+_,AUD/CNY,WaykiChain
+_,AUD/EUR,PIVX
+_,AUD/FJD,RChain
+_,AUD/GBP,Constellation
+_,AUD/HUF,Switcheo
+_,AUD/IDR,Phoenix Global
+_,AUD/ILS,Dragonchain
+_,AUD/INR,pNetwork
+_,AUD/KRW,Fusion
+_,AUD/MXN,Groestlcoin
+_,AUD/MYR,Quantstamp
+_,AUD/PKR,Cindicator
+_,AUD/TWD,FIO Protocol
+_,BRL/AUD,Cortex
+_,CAD/AUD,Ripio Credit Network
+_,CHF/AUD,Cocos-BCX
+_,JPY/AUD,Sport and Leisure
+_,NZD/AUD,Measurable Data Token
+_,SGD/AUD,Einsteinium
+_,USD/AUD,v.systems
+_,AUD/CLP,Aeternity
+_,AUD/ISK,GameCredits
+_,AUD/MAD,Aurora
+_,AUD/PHP,Zap
+_,AUD/RUB,GXChain
+_,AUD/SAR,VITE
+_,AUD/TRY,Enzyme Finance
+_,AUD/VES,LockTrip
+_,AUD/XAF,Lympo
+_,AUD/XCD,STASIS EURO
+_,AUD/BBD,Dock
+_,AUD/BHD,Kleros
+_,AUD/JOD,Nebulas
+_,AUD/NAD,GoChain
+_,AUD/OMR,MCO
+_,AUD/QAR,Navcoin
+_,AUD/JMD,Propy
+_,AUD/KES,Skycoin
+_,AUD/LKR,CasinoCoin
+_,AUD/RON,Dentacoin
+_,AUD/LBP,HyperCash
+_,AUD/NPR,BTU Protocol
+_,AUD/PAB,DMarket
+_,AUD/EGP,Mithril
+_,AUD/XOF,Nxt
+_,CNY/AUD,Phantasma
+_,DKK/AUD,LATOKEN
+_,HKD/AUD,0Chain
+_,ILS/AUD,Steem Dollars
+_,MXN/AUD,Wirex Token
+_,NOK/AUD,Flexacoin
+_,PLN/AUD,Sentivate
+_,SAR/AUD,All Sports
+_,SEK/AUD,Neblio
+_,THB/AUD,Apollo Currency
+_,TRY/AUD,Crypterium
+_,TWD/AUD,Grin
+_,VES/AUD,Project Pai
+_,ZAR/AUD,Presearch
+_,RUB/AUD,Vertcoin
+_,KRW/AUD,Wabi
+_,AUD/HRK,Veritaseum
+_,AUD/BYN,Nucleus Vision
+_,AUD/UAH,Ambrosus
+_,IDR/AUD,TenX
+_,AUD/RUB,Raiden Network Token
+_,USD/AZN,TokenClub
+_,EUR/AZN,BnkToTheFuture
+_,AZN/RUB,Bankera
+_,RUB/AZN,DigixDAO
+_,AZN/RUB,Dovu
+_,EUR/BAM,#MetaHash
+_,EUR/BBD,TE-FOOD
+_,GBP/BBD,Gifto
+_,USD/BBD,PCHAIN
+_,BRL/BBD,Circuits of Value
+_,CAD/BBD,Credits
+_,CNY/BBD,AppCoins
+_,CHF/BBD,Bread
+_,DKK/BBD,QASH
+_,HKD/BBD,Metronome
+_,ILS/BBD,Genesis Vision
+_,MXN/BBD,OAX
+_,NOK/BBD,DeepBrain Chain
+_,NZD/BBD,Loki
+_,PLN/BBD,High Performance Blockchain
+_,SAR/BBD,BABB
+_,SEK/BBD,Dero
+_,SGD/BBD,POA
+_,TRY/BBD,SIRIN LABS Token
+_,TWD/BBD,Digitex Futures
+_,VES/BBD,QLC Chain
+_,ZAR/BBD,LGO Token
+_,EUR/BDT,WePower
+_,GBP/BDT,Blox
+_,USD/BDT,PumaPay
+_,CHF/BGN,Obyte
+_,DKK/BGN,Dynamic
+_,EUR/BGN,XYO
+_,GBP/BGN,Blocknet
+_,USD/BGN,Buggyra Coin Zero
+_,ILS/BGN,Namecoin
+_,RUB/BGN,Moeda Loyalty Points
+_,BGN/RUB,Matrix AI Network
+_,BGN/RUB,SALT
+_,BHD/EUR,Quantum Resistant Ledger
+_,BHD/PKR,Cardstack
+_,EUR/BHD,CyberMiles
+_,GBP/BHD,TrueChain
+_,USD/BHD,Egretia
+_,BRL/BHD,Metaverse ETP
+_,CAD/BHD,Factom
+_,CNY/BHD,Maximine Coin
+_,CHF/BHD,Hydro Protocol
+_,DKK/BHD,Viacoin
+_,HKD/BHD,Everex
+_,ILS/BHD,YOYOW
+_,NOK/BHD,Viberate
+_,NZD/BHD,Tachyon Protocol
+_,PLN/BHD,Agrello
+_,SAR/BHD,MediShares
+_,SEK/BHD,Ruff
+_,SGD/BHD,FLO
+_,THB/BHD,ProximaX
+_,TRY/BHD,Monetha
+_,TWD/BHD,Achain
+_,VES/BHD,SONM
+_,ZAR/BHD,SingularDTV
+_,BHD/INR,DigitalNote
+_,EUR/BIF,Arcblock
+_,GBP/BIF,PRIZM
+_,USD/BIF,Ubiq
+_,BND/GBP,PressOne
+_,EUR/BND,BLOCKv
+_,GBP/BND,B2BX
+_,USD/BND,DATA
+_,EUR/BOB,Peercoin
+_,USD/BOB,IQeon
+_,BRL/BOB,Banano
+_,BOB/BRL,THEKEY
+_,CLP/BOB,eBoost
+_,BOB/CLP,Santiment Network Token
+_,PYG/BOB,ROOBEE
+_,BOB/PYG,Phore
+_,BOB/UYU,Genaro Network
+_,COP/BOB,SmartMesh
+_,BOB/COP,Essentia
+_,PEN/BOB,PlatonCoin
+_,BOB/PEN,Callisto Network
+_,UYU/BOB,OneLedger
+_,BOB/MXN,Internxt
+_,MXN/BOB,Bibox Token
+_,VES/BOB,Restart Energy MWAT
+_,BOB/VES,Stealthcoin
+_,BOB/USD,IoT Chain
+_,BRL/CAD,Seele-N
+_,BRL/CHF,SwftCoin
+_,BRL/CLP,Monolith
+_,BRL/DKK,Peculium
+_,BRL/HKD,Odyssey
+_,BRL/JPY,Time New Bank
+_,BRL/MXN,DAOstack
+_,BRL/SGD,Pillar
+_,BRL/USD,Covesting
+_,CAD/BRL,carVertical
+_,CHF/BRL,Qubitica
+_,EUR/BRL,SmartCash
+_,GBP/BRL,Burst
+_,JPY/BRL,Spectre.ai Dividend Token
+_,SGD/BRL,Tokenomy
+_,USD/BRL,SpaceChain
+_,BRL/CNY,UCA Coin
+_,BRL/CZK,Particl
+_,BRL/EGP,Mobius
+_,BRL/EUR,Wings
+_,BRL/GBP,Content Neutrality Network
+_,BRL/HUF,eBitcoin
+_,BRL/IDR,Feathercoin
+_,BRL/ILS,Aeon
+_,BRL/INR,Lightning Bitcoin
+_,BRL/ISK,VIBE
+_,BRL/JMD,Opacity
+_,BRL/JOD,CPChain
+_,BRL/KES,PotCoin
+_,BRL/KRW,Lamden
+_,BRL/LBP,Mysterium
+_,BRL/LKR,Gulden
+_,BRL/MAD,Skrumble Network
+_,BRL/MYR,Credo
+_,BRL/NAD,DOC.COM
+_,BRL/NOK,ERC20
+_,BRL/NPR,EDUCare
+_,BRL/NZD,Game.com
+_,BRL/OMR,Remme
+_,BRL/PAB,SunContract
+_,BRL/PHP,Cred
+_,BRL/PKR,INT
+_,BRL/PLN,Myriad
+_,BRL/QAR,I/O Coin
+_,BRL/RON,ContentBox
+_,BRL/RUB,LiteDoge
+_,BRL/SAR,Ivy
+_,BRL/SEK,Cappasity
+_,BRL/THB,Litecoin Cash
+_,BRL/TRY,Swarm
+_,BRL/VES,DEX
+_,BRL/XAF,AXPR
+_,BRL/XCD,Datum
+_,BRL/XOF,Investcoin
+_,BRL/ZAR,Vexanium
+_,BRL/TWD,CryptoPing
+_,CNY/BRL,DECOIN
+_,DKK/BRL,Crown
+_,HKD/BRL,Acute Angle Cloud
+_,ILS/BRL,ChatCoin
+_,MXN/BRL,BitGreen
+_,NOK/BRL,YEE
+_,NZD/BRL,Omni
+_,PLN/BRL,BlackCoin
+_,SAR/BRL,ToaCoin
+_,SEK/BRL,EXRNchain
+_,THB/BRL,KickToken
+_,TRY/BRL,Gridcoin
+_,TWD/BRL,QunQun
+_,VES/BRL,OKCash
+_,ZAR/BRL,CannabisCoin
+_,BRL/PYG,DAEX
+_,BRL/UYU,DMM: Governance
+_,BRL/COP,Cube
+_,BRL/PEN,Add.xyz
+_,CLP/BRL,Substratum
+_,PYG/BRL,Pinkcoin
+_,UYU/BRL,Alphacat
+_,COP/BRL,CoTrader
+_,PEN/BRL,BitCapitalVendor
+_,RUB/BRL,DeepOnion
+_,INR/BRL,Novacoin
+_,USD/BRL,Primecoin
+_,BRL/RUB,OneRoot Network
+_,USD/BRLT,Energo
+_,BSD/GBP,Medicalchain
+_,EUR/BSD,Rialto
+_,GBP/BSD,Tierion
+_,USD/BSD,VeriCoin
+_,BWP/ZAR,BitcoinZ
+_,EUR/BWP,Enigma
+_,GBP/BWP,MyWish
+_,USD/BWP,Blackmoon
+_,ZAR/BWP,Patientory
+_,EUR/BYN,Breezecoin
+_,USD/BYN,LuckChain
+_,GBP/BYN,Quark
+_,RUB/BYN,Pascal
+_,CHF/BYN,Plair
+_,CAD/BYN,Curecoin
+_,NZD/BYN,MobileGo
+_,JPY/BYN,Denarius
+_,CNY/BYN,Dimecoin
+_,BYN/USD,IHT Real Estate Protocol
+_,BYN/EUR,CommerceBlock
+_,BYN/RUB,NuBits
+_,BYN/RUB,Expanse
+_,EUR/BZD,Eternity
+_,USD/BZD,AI Doctor
+_,USD/CAD,HempCoin
+_,CAD/CHF,HiCoin
+_,EUR/CAD,CEEK VR
+_,CAD/JPY,ZClassic
+_,GBP/CAD,TransferCoin
+_,NZD/CAD,LUXCoin
+_,CAD/PLN,Rise
+_,CAD/DKK,Asch
+_,CAD/NOK,PayPie
+_,CAD/SGD,DAPS Coin
+_,CAD/SEK,Giga Watt Token
+_,CAD/HKD,Bean Cash
+_,CAD/CNY,Primas
+_,CAD/EUR,Bismuth
+_,CAD/GBP,LNX Protocol
+_,CAD/IDR,MonetaryUnit
+_,CAD/ILS,Sharder
+_,CAD/INR,Waves Community Token
+_,CAD/KRW,Zero
+_,CAD/KWD,Bitcoin Private
+_,CAD/MXN,eosDAC
+_,CAD/MYR,Aventus
+_,CAD/NZD,TrueFlip
+_,CAD/PKR,ATLANT
+_,CAD/THB,FujiCoin
+_,CAD/TWD,BitBoost
+_,CAD/USD,Banca
+_,CAD/ZAR,Renewable Electronic Energy Coin
+_,CHF/CAD,Xaurum
+_,IDR/CAD,Hedge
+_,JPY/CAD,CoinFi
+_,SGD/CAD,0xBitcoin
+_,CAD/CLP,CloakCoin
+_,CAD/CZK,XTRABYTES
+_,CAD/EGP,EDC Blockchain
+_,CAD/HUF,TrezarCoin
+_,CAD/ISK,Capricoin+
+_,CAD/JMD,TraDove B2BCoin
+_,CAD/JOD,Humaniq
+_,CAD/KES,Bottos
+_,CAD/LBP,Maecenas
+_,CAD/LKR,Mercury
+_,CAD/MAD,Lunyr
+_,CAD/NAD,Megacoin
+_,CAD/NPR,GeoCoin
+_,CAD/OMR,FNKOS
+_,CAD/PAB,Adshares
+_,CAD/PHP,REAL
+_,CAD/QAR,Ixcoin
+_,CAD/RON,ZrCoin
+_,CAD/RUB,Carboncoin
+_,CAD/SAR,The ChampCoin
+_,CAD/TRY,GPU Coin
+_,CAD/VES,Dragon Coins
+_,CAD/XAF,GlobalBoost-Y
+_,CAD/XCD,Etherparty
+_,CAD/XOF,Bitcoin Plus
+_,CNY/CAD,Pakcoin
+_,DKK/CAD,DomRaider
+_,HKD/CAD,Trollcoin
+_,ILS/CAD,Freicoin
+_,MXN/CAD,Pandacoin
+_,NOK/CAD,adToken
+_,PLN/CAD,Boolberry
+_,SAR/CAD,Flixxo
+_,SEK/CAD,DECENT
+_,TRY/CAD,Brickblock
+_,TWD/CAD,Playkey
+_,VES/CAD,Cosmo Coin
+_,ZAR/CAD,LanaCoin
+_,RUB/CAD,IXT
+_,KRW/CAD,Bitcoin Atom
+_,CAD/UAH,ShipChain
+_,CAD/COP,EuropeCoin
+_,CAD/RUB,Stox
+_,USD/CHF,Bounty0x
+_,EUR/CHF,Scry.info
+_,GBP/CHF,TokenPay
+_,CHF/JPY,Neurotoken
+_,NZD/CHF,DDKoin
+_,CHF/PLN,SIBCoin
+_,CHF/HUF,FuzeX
+_,CHF/SGD,DubaiCoin
+_,CHF/HKD,Electrify.Asia
+_,CHF/NOK,HitCoin
+_,CHF/ZAR,Bezant
+_,CHF/TRY,Delphy
+_,CHF/DKK,ExclusiveCoin
+_,CHF/SEK,Orbitcoin
+_,CHF/CZK,Ink
+_,CHF/CNY,Indorse Token
+_,CHF/EUR,Ormeus Coin
+_,CHF/GBP,Shorty
+_,CHF/IDR,Edgeless
+_,CHF/ILS,Zeusshield
+_,CHF/INR,Winco
+_,CHF/KRW,Hiveterminal Token
+_,CHF/MXN,Hexx
+_,CHF/MYR,Blockmason Credit Protocol
+_,CHF/NZD,Colossuscoin V2
+_,CHF/THB,Chronobank
+_,CHF/TWD,Trinity Network Credit
+_,CHF/USD,BitDegree
+_,DKK/CHF,Bezop
+_,ISK/CHF,Rentberry
+_,JPY/CHF,EventChain
+_,NOK/CHF,MetalCoin
+_,SEK/CHF,Hacken
+_,SGD/CHF,Ecobit
+_,TRY/CHF,FlypMe
+_,CNY/CHF,Lendingblock
+_,CHF/CLP,Bullion
+_,CHF/EGP,Friendz
+_,CHF/ISK,Sakura Bloom
+_,CHF/JMD,GoldMint
+_,CHF/JOD,Blue Protocol
+_,CHF/KES,MEXC Token
+_,CHF/LBP,ATMChain
+_,CHF/LKR,Internet of People
+_,CHF/MAD,Po.et
+_,CHF/NAD,BZEdge
+_,CHF/NPR,X8X Token
+_,CHF/OMR,HelloGold
+_,CHF/PAB,HeroNode
+_,CHF/PHP,Pesetacoin
+_,CHF/PKR,Zennies
+_,CHF/QAR,Ryo Currency
+_,CHF/RON,AudioCoin
+_,CHF/RUB,Merebel
+_,CHF/SAR,Blocktix
+_,CHF/VES,Primalbase Token
+_,CHF/XAF,MintMe.com Coin
+_,CHF/XCD,Scorum Coins
+_,HKD/CHF,ChessCoin
+_,ILS/CHF,Dropil
+_,MXN/CHF,MyBit
+_,PLN/CHF,Deutsche eMark
+_,SAR/CHF,Maxcoin
+_,TWD/CHF,CoinJanitor
+_,VES/CHF,BUZZCoin
+_,ZAR/CHF,Ethereum Meta
+_,RUB/CHF,DreamTeam Token
+_,KRW/CHF,Zeepin
+_,CHF/UAH,Qbao
+_,CHF/RUB,Innova
+_,USD/CHF,Shadow Token
+_,IDR/CHF,GoNetwork
+_,CHF/RUB,ShadowCash
+_,EUR/CLP,Neutron
+_,GBP/CLP,Startcoin
+_,USD/CLP,Synergy
+_,CNY/CLP,Opus
+_,CLP/KRW,SwagBucks
+_,CLP/IDR,Streamity
+_,DKK/CLP,Cryptonite
+_,HKD/CLP,Swap
+_,HUF/CLP,Fortuna
+_,ILS/CLP,SHIELD
+_,INR/CLP,GoByte
+_,ISK/CLP,Netko
+_,JPY/CLP,InsaneCoin
+_,MXN/CLP,EncryptoTel [WAVES]
+_,NOK/CLP,Swing
+_,NZD/CLP,Digitalcoin
+_,PHP/CLP,WayGuide
+_,PKR/CLP,Energycoin
+_,PLN/CLP,NANJCOIN
+_,RUB/CLP,ION
+_,SAR/CLP,Swarm City
+_,SEK/CLP,Bitstar
+_,SGD/CLP,Graft
+_,THB/CLP,Starbase
+_,TRY/CLP,OracleChain
+_,TWD/CLP,Terracoin
+_,VES/CLP,BlueCoin
+_,ZAR/CLP,InvestFeed
+_,CLP/PYG,Aston
+_,CLP/UYU,Aeron
+_,CLP/COP,Ellaism
+_,CLP/PEN,BitTokens
+_,PYG/CLP,iEthereum
+_,UYU/CLP,CryptoCarbon
+_,COP/CLP,2GIVE
+_,PEN/CLP,Happycoin
+_,CLP/MXN,Silverway
+_,CLP/VES,SafeInsure
+_,CLP/USD,GCN Coin
+_,USD/CNH,WMCoin
+_,CNY/CNH,Quantis Network
+_,CNY/DKK,SproutsExtreme
+_,CNY/HKD,DopeCoin
+_,CNY/JPY,Aigang
+_,CNY/ZAR,IslaCoin
+_,DKK/CNY,Hackspace Capital
+_,EUR/CNY,Jetcoin
+_,GBP/CNY,Kobocoin
+_,HKD/CNY,Silent Notary
+_,IDR/CNY,MicroMoney
+_,INR/CNY,TagCoin
+_,JPY/CNY,Coin Lion
+_,KRW/CNY,Pirl
+_,MYR/CNY,Chronologic
+_,NZD/CNY,Cobinhood
+_,SGD/CNY,Tattoocoin (Standard Edition)
+_,THB/CNY,Cryptojacks
+_,TWD/CNY,Photon
+_,USD/CNY,Motocoin
+_,ZAR/CNY,SRCOIN
+_,CNY/CZK,Ties.DB
+_,CNY/EGP,Leadcoin
+_,CNY/EUR,Nicash
+_,CNY/GBP,Opal
+_,CNY/HUF,ParallelCoin
+_,CNY/IDR,Bitcurrency
+_,CNY/ILS,AquariusCoin
+_,CNY/INR,FoldingCoin
+_,CNY/ISK,SkinCoin
+_,CNY/JMD,Mao Zedong
+_,CNY/JOD,REOSC
+_,CNY/KES,imbrex
+_,CNY/KRW,GINcoin
+_,CNY/LBP,Bitcloud
+_,CNY/LKR,Magi
+_,CNY/MAD,OptiToken
+_,CNY/MXN,Emerald Crypto
+_,CNY/MYR,Guncoin
+_,CNY/NAD,Storiqa
+_,CNY/NOK,Proton Token
+_,CNY/NPR,Dynamite
+_,CNY/NZD,DraftCoin
+_,CNY/OMR,Elacoin
+_,CNY/PAB,KekCoin
+_,CNY/PHP,Bitz
+_,CNY/PKR,SuperCoin
+_,CNY/PLN,vSlice
+_,CNY/QAR,PosEx
+_,CNY/RON,PoSW Coin
+_,CNY/RUB,EvenCoin
+_,CNY/SAR,Adzcoin
+_,CNY/SEK,BitBar
+_,CNY/SGD,Truegame
+_,CNY/THB,Evil Coin
+_,CNY/TRY,Crowd Machine
+_,CNY/USD,Verify
+_,CNY/VES,Worldcore
+_,CNY/XAF,Nasdacoin
+_,CNY/XCD,Monkey Project
+_,CNY/TWD,Bata
+_,ILS/CNY,KushCoin
+_,MXN/CNY,Yacoin
+_,NOK/CNY,PopularCoin
+_,PHP/CNY,OctoCoin
+_,PLN/CNY,VULCANO
+_,RUB/CNY,TEAM (TokenStars)
+_,SAR/CNY,Sling
+_,SEK/CNY,Firecoin
+_,TRY/CNY,Crave
+_,VES/CNY,BitWhite
+_,CNY/UAH,Litecoin Plus
+_,KWD/CNY,MojoCoin
+_,CNY/RUB,Rimbit
+_,CNY/MNT,Mineum
+_,DKK/COP,Joulecoin
+_,EUR/COP,BlockCAT
+_,GBP/COP,Zetacoin
+_,USD/COP,Bitcoin Zero
+_,PYG/COP,Franko
+_,COP/PYG,Bitcoin Interest
+_,UYU/COP,Bolivarcoin
+_,COP/UYU,Bela
+_,COP/PEN,GameBet Coin
+_,PEN/COP,Ultimate Secure Cash
+_,COP/MXN,Rubies
+_,MXN/COP,FirstCoin
+_,VES/COP,Eroscoin
+_,COP/VES,Kurrent
+_,COP/USD,Ratecoin
+_,ILS/COP,Unitus
+_,EUR/CRC,Xios
+_,GBP/CRC,Prime-Ex Perpetual
+_,USD/CRC,PX
+_,EUR/CUP,SteepCoin
+_,USD/CUP,BillaryCoin
+_,EUR/CVE,Universe
+_,NZD/CZK,Unify
+_,DKK/CZK,GuccioneCoin
+_,PLN/CZK,Privatix
+_,USD/CZK,Bitcoin Red
+_,CZK/HUF,Mchain
+_,GBP/CZK,Coin2.1
+_,CZK/JPY,Bitzeny
+_,EUR/CZK,Rupee
+_,CZK/SEK,BeaverCoin
+_,SEK/CZK,BERNcash
+_,HKD/CZK,Spots
+_,ILS/CZK,Niobio Cash
+_,INR/CZK,iTicoin
+_,ISK/CZK,WARP
+_,JPY/CZK,Universal Currency
+_,MXN/CZK,LiteBar
+_,NOK/CZK,ATBCoin
+_,PHP/CZK,PureVidz
+_,PKR/CZK,GlobalToken
+_,RUB/CZK,Syndicate
+_,SAR/CZK,SmartCoin
+_,SGD/CZK,ELTCOIN
+_,THB/CZK,Paragon
+_,TRY/CZK,Miners' Reward Token
+_,TWD/CZK,GoldBlocks
+_,VES/CZK,Suretly
+_,ZAR/CZK,Onix
+_,CZK/ILS,ICOBID
+_,CZK/PLN,Global Currency Reserve
+_,CZK/RUB,Ethereum Cash
+_,CZK/RUB,Digital Money Bits
+_,EUR/DJF,Blakecoin
+_,GBP/DJF,Acoin
+_,USD/DJF,GlobalCoin
+_,USD/DKK,Theresa May Coin
+_,EUR/DKK,TrumpCoin
+_,NZD/DKK,Bitradio
+_,DKK/HUF,Shilling
+_,DKK/PLN,PostCoin
+_,DKK/SEK,Metal Music Coin
+_,NOK/DKK,TEKcoin
+_,DKK/JPY,Cream
+_,DKK/SGD,VIP Tokens
+_,DKK/ZAR,Zurcoin
+_,DKK/THB,Uro
+_,GBP/DKK,Atonomi
+_,DKK/HKD,FuzzBalls
+_,DKK/INR,Regalcoin
+_,DKK/MXN,Wild Crypto
+_,DKK/MYR,Debitcoin
+_,DKK/NOK,MindCoin
+_,DKK/PHP,Dreamcoin
+_,DKK/TWD,Centurion
+_,DKK/UAH,Moin
+_,HKD/DKK,CryCash
+_,JPY/DKK,Unrealcoin
+_,MXN/DKK,XGOX
+_,MYR/DKK,Signatum
+_,PLN/DKK,iBTC
+_,SEK/DKK,EDRCoin
+_,SGD/DKK,Beatcoin
+_,UAH/DKK,GeyserCoin
+_,ZAR/DKK,Sativacoin
+_,DKK/EGP,TOKYO
+_,DKK/EUR,Influxcoin
+_,DKK/GBP,Ride My Car
+_,DKK/IDR,Orlycoin
+_,DKK/ILS,PayCoin
+_,DKK/JMD,Save and Gain
+_,DKK/JOD,Jewels
+_,DKK/KES,Braincoin
+_,DKK/KRW,LetItRide
+_,DKK/LBP,ParkByte
+_,DKK/LKR,GoldPieces
+_,DKK/MAD,MustangCoin
+_,DKK/NAD,AmsterdamCoin
+_,DKK/NPR,PayCon
+_,DKK/NZD,PRiVCY
+_,DKK/OMR,X-Coin
+_,DKK/PAB,BitRent
+_,DKK/PKR,Matchpool
+_,DKK/QAR,RonPaulCoin
+_,DKK/RON,MarteXcoin
+_,DKK/RUB,Elementrem
+_,DKK/SAR,PIECoin
+_,DKK/TRY,DNotes
+_,DKK/USD,ARBITRAGE
+_,DKK/VES,SpreadCoin
+_,DKK/XAF,Zonecoin
+_,DKK/XCD,BowsCoin
+_,ILS/DKK,Californium
+_,INR/DKK,ARbit
+_,PHP/DKK,Thore Cash
+_,RUB/DKK,OsmiumCoin
+_,SAR/DKK,JobsCoin
+_,THB/DKK,Bitcoin 21
+_,TRY/DKK,Desire
+_,TWD/DKK,Visio
+_,VES/DKK,SydPak
+_,DKK/RUB,Xonecoin
+_,EUR/DOP,Zayedcoin
+_,GBP/DOP,ImpulseCoin
+_,USD/DOP,BROTHER
+_,EUR/DZD,CrevaCoin
+_,GBP/DZD,Rupaya
+_,USD/DZD,Quebecoin
+_,EGP/PKR,HOdlcoin
+_,EUR/EGP,SongCoin
+_,GBP/EGP,Titcoin
+_,USD/EGP,Destiny
+_,HKD/EGP,Taler Coin
+_,ILS/EGP,Litecred
+_,INR/EGP,EquiTrader
+_,MXN/EGP,Dollarcoin
+_,NOK/EGP,BitCoal
+_,NZD/EGP,SpeedCash
+_,PHP/EGP,Eurocoin
+_,PLN/EGP,Open Trading Network
+_,RUB/EGP,Cannation
+_,SAR/EGP,Prime-XI
+_,SEK/EGP,MiloCoin
+_,SGD/EGP,LiteBitcoin
+_,THB/EGP,Cabbage
+_,TRY/EGP,TajCoin
+_,TWD/EGP,RSGPcoin
+_,VES/EGP,Veltor
+_,ZAR/EGP,NevaCoin
+_,EGP/EUR,Luna Coin
+_,EGP/GBP,VectorAI
+_,EGP/JPY,JavaScript Token
+_,EGP/SAR,High Voltage
+_,EGP/USD,Bulleon
+_,JPY/EGP,LiteCoin Ultra
+_,EUR/ETB,Project-X
+_,GBP/ETB,PLNcoin
+_,USD/ETB,Bitvolt
+_,EUR/USD,Independent Money System
+_,EUR/GBP,PlatinumBAR
+_,EUR/JPY,BenjiRolls
+_,EUR/NOK,Paypex
+_,EUR/PLN,Dalecoin
+_,EUR/NZD,BriaCoin
+_,EUR/SEK,WomenCoin
+_,EUR/ILS,Dash Green
+_,EUR/TRY,Wild Beast Block
+_,EUR/THB,Peerguess
+_,EUR/ZAR,EcoCoin
+_,EUR/MXN,Crystal Clear 
+_,EUR/SGD,Comet
+_,EUR/HUF,SONO
+_,EUR/HKD,NodeCoin
+_,EUR/KRW,iBank
+_,EUR/FJD,Coinonat
+_,EUR/GHS,SocialCoin
+_,EUR/GMD,Fintab
+_,EUR/GNF,RouletteToken
+_,EUR/GTQ,Ccore
+_,EUR/HNL,Iconic
+_,EUR/HRK,Experience Points
+_,EUR/HTG,VapersCoin
+_,EUR/IDR,PonziCoin
+_,EUR/INR,Argus
+_,EUR/IQD,Concoin
+_,EUR/IRR,ArtByte
+_,EUR/ISK,Helpico
+_,EUR/JMD,HarmonyCoin
+_,EUR/JOD,X2
+_,EUR/KES,CRYPTO20
+_,EUR/KHR,RON
+_,EUR/KWD,Aces
+_,EUR/KYD,ALQO
+_,EUR/KZT,BUMO
+_,EUR/LAK,DEEX
+_,EUR/LBP,FOIN
+_,EUR/LKR,Kala
+_,EUR/LSL,LIZA
+_,EUR/LYD,MOAC
+_,EUR/MAD,NAGA
+_,EUR/MDL,ODEM
+_,EUR/MGA,Veggie
+_,EUR/MKD,WiBX
+_,EUR/MMK,Axiom
+_,EUR/MOP,Clams
+_,EUR/MRU,Dashs
+_,EUR/MUR,Fidyo
+_,EUR/MWK,Flash
+_,EUR/MYR,Hydro
+_,EUR/NAD,Lykke
+_,EUR/NGN,MMXVI
+_,EUR/NIO,SaluS
+_,EUR/NPR,Tesra
+_,EUR/OMR,BioBar
+_,EUR/PAB,Bubble
+_,EUR/PEN,Change
+_,EUR/PGK,ECC
+_,EUR/PHP,Francs
+_,EUR/PKR,Maggie
+_,EUR/PYG,Nectar
+_,EUR/QAR,netBit
+_,EUR/RON,Sphere
+_,EUR/RSD,Wagerr
+_,EUR/RUB,XDE II
+_,EUR/RWF,BitCore
+_,EUR/SAR,BMChain
+_,EUR/SCR,BTCMoon
+_,EUR/SDG,Electra
+_,EUR/SDR,LKRCoin
+_,EUR/SOS,Moneta
+_,EUR/STN,Neumark
+_,EUR/SVC,Omicron
+_,EUR/SYP,Sexcoin
+_,EUR/SZL,United Traders Token
+_,EUR/TND,Bastonet
+_,EUR/TTD,BitTube
+_,EUR/TWD,BitcoinX
+_,EUR/TZS,BlockCDN
+_,EUR/UAH,ClubCoin
+_,EUR/UGX,DarkLisk
+_,EUR/UYU,Etheroll
+_,EUR/UZS,Fazzcoin
+_,EUR/VES,MarxCoin
+_,EUR/VND,PeepCoin
+_,EUR/XAF,Polybius
+_,EUR/XOF,Quotient
+_,EUR/XPF,RubleBit
+_,EUR/ZMW,Rubycoin
+_,GBP/EUR,SegWit2x
+_,GHS/EUR,TopChain
+_,JPY/EUR,Universa
+_,NZD/EUR,Voyacoin
+_,SGD/EUR,Zeitcoin
+_,USD/EUR,AgaveCoin
+_,EUR/XCD,BNS Token
+_,HKD/EUR,CanYaCoin
+_,ILS/EUR,COMSA [ETH]
+_,MXN/EUR,EncrypGen
+_,NOK/EUR,KashhCoin
+_,PLN/EUR,Lambo Coin
+_,RUB/EUR,RoyalCoin
+_,SAR/EUR,ShellCoin
+_,SEK/EUR,SwapToken
+_,TRY/EUR,ThoreNext
+_,TWD/EUR,Auroracoin
+_,VES/EUR,Authorship
+_,ZAR/EUR,AvatarCoin
+_,MAD/EUR,BlazerCoin
+_,KRW/EUR,BlockStamp
+_,EUR/MZN,ColossusXT
+_,INR/EUR,FirstBlood
+_,JOD/EUR,Flash Token
+_,KWD/EUR,Fonziecoin
+_,EUR/TJS,FuturoCoin
+_,EUR/RUB,PrismChain
+_,HUF/EUR,RabbitCoin
+_,GEL/EUR,SpankChain
+_,EUR/GEL,SportsCoin
+_,IDR/EUR,TrickyCoin
+_,EUR/RUB,Bitcoin God
+_,FJD/USD,CoinEx Token
+_,GBP/FJD,Dinastycoin
+_,USD/FJD,NewYorkCoin
+_,GBP/USD,NoLimitCoin
+_,GBP/JPY,V-Dimension
+_,GBP/NZD,Counterparty
+_,GBP/SGD,Cycling Coin
+_,GBP/ILS,DeltaCredits
+_,GBP/PLN,Bitcoin Vault
+_,GBP/NOK,Ethereum Lite
+_,GBP/THB,InflationCoin
+_,GBP/ZAR,InvisibleCoin
+_,GBP/TRY,Super Bitcoin
+_,GBP/SEK,CryptoBossCoin
+_,GBP/HKD,Ethereum eRush
+_,GBP/HUF,EurocoinToken
+_,GBP/GMD,Exchange Union
+_,GBP/GTQ,FrankyWillCoin
+_,GBP/HNL,GameLeagueCoin
+_,GBP/HRK,Halloween Coin
+_,GBP/HTG,Jibrel Network
+_,GBP/IDR,ThoreCashTRX
+_,GBP/INR,United Bitcoin
+_,GBP/IQD,CryptoWorldX Token
+_,GBP/IRR,Cryptoindex.com 100
+_,GBP/ISK,Digital Bullion Gold
+_,GBP/JMD,Advanced Internet Blocks
+_,GBP/JOD,_
+_,GBP/KES,_
+_,GBP/KRW,_
+_,GBP/KWD,_
+_,GBP/KZT,_
+_,GBP/LBP,_
+_,GBP/LKR,_
+_,GBP/MAD,_
+_,GBP/MUR,_
+_,GBP/MWK,_
+_,GBP/MXN,_
+_,GBP/MYR,_
+_,GBP/NGN,_
+_,GBP/NIO,_
+_,GBP/OMR,_
+_,GBP/PEN,_
+_,GBP/PGK,_
+_,GBP/PHP,_
+_,GBP/PKR,_
+_,GBP/QAR,_
+_,GBP/RON,_
+_,GBP/RUB,_
+_,GBP/SAR,_
+_,GBP/SCR,_
+_,GBP/SZL,_
+_,GBP/TND,_
+_,GBP/TTD,_
+_,GBP/TWD,_
+_,GBP/TZS,_
+_,GBP/UAH,_
+_,GBP/UGX,_
+_,GBP/VND,_
+_,GBP/XAF,_
+_,GBP/XPF,_
+_,GBP/ZMW,_
+_,JPY/GBP,_
+_,KWD/GBP,_
+_,NZD/GBP,_
+_,OMR/GBP,_
+_,SGD/GBP,_
+_,TND/GBP,_
+_,USD/GBP,_
+_,GBP/NAD,_
+_,GBP/PAB,_
+_,GBP/XCD,_
+_,GBP/XOF,_
+_,HKD/GBP,_
+_,ILS/GBP,_
+_,MXN/GBP,_
+_,NOK/GBP,_
+_,PLN/GBP,_
+_,RUB/GBP,_
+_,SAR/GBP,_
+_,SEK/GBP,_
+_,TRY/GBP,_
+_,TWD/GBP,_
+_,VES/GBP,_
+_,ZAR/GBP,_
+_,KRW/GBP,_
+_,INR/GBP,_
+_,JOD/GBP,_
+_,GBP/NPR,_
+_,IDR/GBP,_
+_,GBP/RUB,_
+_,USD/GEL,_
+_,GEL/RUB,_
+_,GHS/USD,_
+_,USD/GHS,_
+_,USD/GMD,_
+_,USD/GNF,_
+_,USD/GTQ,_
+_,SGD/HKD,_
+_,HKD/JPY,_
+_,NZD/HKD,_
+_,USD/HKD,_
+_,HKD/IDR,_
+_,HKD/INR,_
+_,HKD/KRW,_
+_,HKD/MXN,_
+_,HKD/MYR,_
+_,HKD/PKR,_
+_,HKD/PLN,_
+_,HKD/THB,_
+_,HKD/TWD,_
+_,HKD/ZAR,_
+_,JPY/HKD,_
+_,KRW/HKD,_
+_,MXN/HKD,_
+_,MYR/HKD,_
+_,ZAR/HKD,_
+_,HKD/HUF,_
+_,HKD/ILS,_
+_,HKD/ISK,_
+_,HKD/JMD,_
+_,HKD/JOD,_
+_,HKD/KES,_
+_,HKD/LBP,_
+_,HKD/LKR,_
+_,HKD/MAD,_
+_,HKD/NAD,_
+_,HKD/NOK,_
+_,HKD/NPR,_
+_,HKD/NZD,_
+_,HKD/OMR,_
+_,HKD/PAB,_
+_,HKD/PHP,_
+_,HKD/QAR,_
+_,HKD/RON,_
+_,HKD/RUB,_
+_,HKD/SAR,_
+_,HKD/SEK,_
+_,HKD/SGD,_
+_,HKD/TRY,_
+_,HKD/USD,_
+_,HKD/VES,_
+_,HKD/XAF,_
+_,HKD/XCD,_
+_,HKD/XOF,_
+_,ILS/HKD,_
+_,INR/HKD,_
+_,NOK/HKD,_
+_,PHP/HKD,_
+_,PLN/HKD,_
+_,RUB/HKD,_
+_,SAR/HKD,_
+_,SEK/HKD,_
+_,THB/HKD,_
+_,TRY/HKD,_
+_,TWD/HKD,_
+_,VES/HKD,_
+_,HKD/RUB,_
+_,USD/HNL,_
+_,USD/HRK,_
+_,USD/HTG,_
+_,PLN/HUF,_
+_,USD/HUF,_
+_,NZD/HUF,_
+_,HUF/IDR,_
+_,HUF/INR,_
+_,HUF/JPY,_
+_,HUF/ISK,_
+_,HUF/KRW,_
+_,HUF/PHP,_
+_,HUF/PKR,_
+_,HUF/RUB,_
+_,HUF/THB,_
+_,HUF/XAF,_
+_,HUF/JMD,_
+_,HUF/KES,_
+_,HUF/LKR,_
+_,HUF/LBP,_
+_,HUF/NPR,_
+_,HUF/XOF,_
+_,ILS/HUF,_
+_,INR/HUF,_
+_,ISK/HUF,_
+_,JPY/HUF,_
+_,MXN/HUF,_
+_,NOK/HUF,_
+_,PHP/HUF,_
+_,PKR/HUF,_
+_,RUB/HUF,_
+_,SAR/HUF,_
+_,SEK/HUF,_
+_,SGD/HUF,_
+_,THB/HUF,_
+_,TRY/HUF,_
+_,TWD/HUF,_
+_,VES/HUF,_
+_,ZAR/HUF,_
+_,HUF/USD,_
+_,HUF/ILS,_
+_,HUF/RUB,_
+_,IDR/INR,_
+_,IDR/JPY,_
+_,IDR/KRW,_
+_,IDR/THB,_
+_,IDR/TWD,_
+_,JPY/IDR,_
+_,KRW/IDR,_
+_,MYR/IDR,_
+_,NZD/IDR,_
+_,SGD/IDR,_
+_,THB/IDR,_
+_,TWD/IDR,_
+_,USD/IDR,_
+_,ZAR/IDR,_
+_,ILS/IDR,_
+_,INR/IDR,_
+_,ISK/IDR,_
+_,MXN/IDR,_
+_,NOK/IDR,_
+_,PHP/IDR,_
+_,PKR/IDR,_
+_,PLN/IDR,_
+_,RUB/IDR,_
+_,SAR/IDR,_
+_,SEK/IDR,_
+_,TRY/IDR,_
+_,VES/IDR,_
+_,IDR/USD,_
+_,USD/ILS,_
+_,ILS/JPY,_
+_,JOD/ILS,_
+_,JPY/ILS,_
+_,ILS/INR,_
+_,ILS/ISK,_
+_,ILS/JMD,_
+_,ILS/JOD,_
+_,ILS/KES,_
+_,ILS/KRW,_
+_,ILS/LBP,_
+_,ILS/LKR,_
+_,ILS/MAD,_
+_,ILS/MXN,_
+_,ILS/MYR,_
+_,ILS/NAD,_
+_,ILS/NOK,_
+_,ILS/NPR,_
+_,ILS/NZD,_
+_,ILS/OMR,_
+_,ILS/PAB,_
+_,ILS/PHP,_
+_,ILS/PKR,_
+_,ILS/PLN,_
+_,ILS/QAR,_
+_,ILS/RON,_
+_,ILS/RUB,_
+_,ILS/SAR,_
+_,ILS/SEK,_
+_,ILS/SGD,_
+_,ILS/THB,_
+_,ILS/TRY,_
+_,ILS/TWD,_
+_,ILS/USD,_
+_,ILS/VES,_
+_,ILS/XAF,_
+_,ILS/XCD,_
+_,ILS/XOF,_
+_,ILS/ZAR,_
+_,INR/ILS,_
+_,MXN/ILS,_
+_,NOK/ILS,_
+_,NZD/ILS,_
+_,PLN/ILS,_
+_,RUB/ILS,_
+_,SAR/ILS,_
+_,SEK/ILS,_
+_,SGD/ILS,_
+_,THB/ILS,_
+_,TRY/ILS,_
+_,TWD/ILS,_
+_,VES/ILS,_
+_,ZAR/ILS,_
+_,ILS/UAH,_
+_,ILS/PEN,_
+_,ILS/UYU,_
+_,ISK/ILS,_
+_,KRW/ILS,_
+_,RON/ILS,_
+_,USD/INR,_
+_,INR/JPY,_
+_,INR/KRW,_
+_,INR/PKR,_
+_,INR/THB,_
+_,INR/TWD,_
+_,JPY/INR,_
+_,KRW/INR,_
+_,MYR/INR,_
+_,NOK/INR,_
+_,NZD/INR,_
+_,SEK/INR,_
+_,SGD/INR,_
+_,THB/INR,_
+_,TWD/INR,_
+_,ZAR/INR,_
+_,INR/PHP,_
+_,INR/ISK,_
+_,INR/JMD,_
+_,INR/KES,_
+_,INR/LBP,_
+_,INR/LKR,_
+_,INR/MAD,_
+_,INR/MXN,_
+_,INR/MYR,_
+_,INR/NAD,_
+_,INR/NOK,_
+_,INR/NPR,_
+_,INR/RUB,_
+_,INR/SEK,_
+_,INR/TRY,_
+_,INR/XAF,_
+_,INR/XOF,_
+_,INR/ZAR,_
+_,ISK/INR,_
+_,MXN/INR,_
+_,PHP/INR,_
+_,PKR/INR,_
+_,PLN/INR,_
+_,RUB/INR,_
+_,SAR/INR,_
+_,TRY/INR,_
+_,VES/INR,_
+_,INR/USD,_
+_,INR/RUB,_
+_,USD/IQD,_
+_,IQD/USD,_
+_,USD/IRR,_
+_,IRR/USD,_
+_,SEK/ISK,_
+_,USD/ISK,_
+_,ISK/JPY,_
+_,ISK/KRW,_
+_,ISK/PHP,_
+_,ISK/PKR,_
+_,ISK/RUB,_
+_,ISK/THB,_
+_,ISK/XAF,_
+_,ISK/JMD,_
+_,ISK/KES,_
+_,ISK/LKR,_
+_,ISK/LBP,_
+_,ISK/NPR,_
+_,ISK/XOF,_
+_,JPY/ISK,_
+_,MXN/ISK,_
+_,NOK/ISK,_
+_,NZD/ISK,_
+_,PHP/ISK,_
+_,PKR/ISK,_
+_,PLN/ISK,_
+_,RUB/ISK,_
+_,SAR/ISK,_
+_,SGD/ISK,_
+_,THB/ISK,_
+_,TRY/ISK,_
+_,TWD/ISK,_
+_,VES/ISK,_
+_,ZAR/ISK,_
+_,USD/JMD,_
+_,JPY/JMD,_
+_,MXN/JMD,_
+_,NOK/JMD,_
+_,NZD/JMD,_
+_,PHP/JMD,_
+_,PKR/JMD,_
+_,PLN/JMD,_
+_,RUB/JMD,_
+_,SAR/JMD,_
+_,SEK/JMD,_
+_,SGD/JMD,_
+_,THB/JMD,_
+_,TRY/JMD,_
+_,TWD/JMD,_
+_,VES/JMD,_
+_,ZAR/JMD,_
+_,USD/JOD,_
+_,NOK/JOD,_
+_,NZD/JOD,_
+_,PLN/JOD,_
+_,SAR/JOD,_
+_,SEK/JOD,_
+_,SGD/JOD,_
+_,TRY/JOD,_
+_,TWD/JOD,_
+_,VES/JOD,_
+_,ZAR/JOD,_
+_,JOD/JPY,_
+_,JOD/KWD,_
+_,JPY/JOD,_
+_,KWD/JOD,_
+_,JOD/USD,_
+_,JOD/SAR,_
+_,USD/JPY,_
+_,NZD/JPY,_
+_,NOK/JPY,_
+_,PLN/JPY,_
+_,TRY/JPY,_
+_,THB/JPY,_
+_,ZAR/JPY,_
+_,MXN/JPY,_
+_,SEK/JPY,_
+_,SGD/JPY,_
+_,JPY/KRW,_
+_,JPY/MXN,_
+_,JPY/MYR,_
+_,JPY/NOK,_
+_,JPY/NZD,_
+_,JPY/PKR,_
+_,JPY/PLN,_
+_,JPY/SEK,_
+_,JPY/THB,_
+_,JPY/TWD,_
+_,JPY/USD,_
+_,JPY/ZAR,_
+_,KRW/JPY,_
+_,MYR/JPY,_
+_,TWD/JPY,_
+_,JPY/KES,_
+_,JPY/LBP,_
+_,JPY/LKR,_
+_,JPY/NPR,_
+_,JPY/PHP,_
+_,JPY/RUB,_
+_,JPY/XAF,_
+_,JPY/XOF,_
+_,PHP/JPY,_
+_,PKR/JPY,_
+_,RUB/JPY,_
+_,SAR/JPY,_
+_,VES/JPY,_
+_,JPY/KWD,_
+_,JPY/SAR,_
+_,JPY/SGD,_
+_,KWD/JPY,_
+_,JPY/UAH,_
+_,JPY/TRY,_
+_,JPY/RUB,_
+_,USD/JPY,_
+_,JPY/RUB,_
+_,USD/KES,_
+_,MXN/KES,_
+_,NOK/KES,_
+_,NZD/KES,_
+_,PHP/KES,_
+_,PKR/KES,_
+_,PLN/KES,_
+_,RUB/KES,_
+_,SAR/KES,_
+_,SEK/KES,_
+_,SGD/KES,_
+_,THB/KES,_
+_,TRY/KES,_
+_,TWD/KES,_
+_,VES/KES,_
+_,ZAR/KES,_
+_,USD/KGS,_
+_,KGS/RUB,_
+_,KGS/RUB,_
+_,USD/KHR,_
+_,USD/KMF,_
+_,USD/KRW,_
+_,KRW/MYR,_
+_,KRW/THB,_
+_,KRW/TWD,_
+_,KRW/ZAR,_
+_,MYR/KRW,_
+_,NZD/KRW,_
+_,SGD/KRW,_
+_,THB/KRW,_
+_,TWD/KRW,_
+_,ZAR/KRW,_
+_,MXN/KRW,_
+_,NOK/KRW,_
+_,PHP/KRW,_
+_,PKR/KRW,_
+_,PLN/KRW,_
+_,RUB/KRW,_
+_,SAR/KRW,_
+_,SEK/KRW,_
+_,TRY/KRW,_
+_,VES/KRW,_
+_,KRW/USD,_
+_,KRW/SGD,_
+_,KRW/RUB,_
+_,USD/KWD,_
+_,KWD/PKR,_
+_,KWD/SAR,_
+_,SAR/KWD,_
+_,KWD/USD,_
+_,KWD/TRY,_
+_,KWD/MYR,_
+_,SGD/KWD,_
+_,KWD/SGD,_
+_,KYD/USD,_
+_,USD/KZT,_
+_,RUB/KZT,_
+_,KZT/RUB,_
+_,UAH/KZT,_
+_,KZT/RUB,_
+_,USD/LAK,_
+_,USD/LBP,_
+_,MXN/LBP,_
+_,NOK/LBP,_
+_,NZD/LBP,_
+_,PHP/LBP,_
+_,PKR/LBP,_
+_,PLN/LBP,_
+_,RUB/LBP,_
+_,SAR/LBP,_
+_,SEK/LBP,_
+_,SGD/LBP,_
+_,THB/LBP,_
+_,TRY/LBP,_
+_,TWD/LBP,_
+_,VES/LBP,_
+_,ZAR/LBP,_
+_,USD/LKR,_
+_,MXN/LKR,_
+_,NOK/LKR,_
+_,NZD/LKR,_
+_,PHP/LKR,_
+_,PKR/LKR,_
+_,PLN/LKR,_
+_,RUB/LKR,_
+_,SAR/LKR,_
+_,SEK/LKR,_
+_,SGD/LKR,_
+_,THB/LKR,_
+_,TRY/LKR,_
+_,TWD/LKR,_
+_,VES/LKR,_
+_,ZAR/LKR,_
+_,USD/LSL,_
+_,USD/LYD,_
+_,USD/MAD,_
+_,MXN/MAD,_
+_,NOK/MAD,_
+_,NZD/MAD,_
+_,PHP/MAD,_
+_,PLN/MAD,_
+_,RUB/MAD,_
+_,SAR/MAD,_
+_,SEK/MAD,_
+_,SGD/MAD,_
+_,THB/MAD,_
+_,TRY/MAD,_
+_,TWD/MAD,_
+_,VES/MAD,_
+_,ZAR/MAD,_
+_,USD/MDL,_
+_,MDL/RUB,_
+_,MDL/RUB,_
+_,USD/MGA,_
+_,USD/MKD,_
+_,USD/MMK,_
+_,USD/MNT,_
+_,USD/MOP,_
+_,USD/MRU,_
+_,USD/MUR,_
+_,USD/MVR,_
+_,USD/MWK,_
+_,USD/MXN,_
+_,MXN/ZAR,_
+_,SGD/MXN,_
+_,MXN/MYR,_
+_,MXN/NAD,_
+_,MXN/NOK,_
+_,MXN/NPR,_
+_,MXN/NZD,_
+_,MXN/PAB,_
+_,MXN/PHP,_
+_,MXN/PKR,_
+_,MXN/PLN,_
+_,MXN/QAR,_
+_,MXN/RON,_
+_,MXN/RUB,_
+_,MXN/SAR,_
+_,MXN/SEK,_
+_,MXN/SGD,_
+_,MXN/THB,_
+_,MXN/TRY,_
+_,MXN/TWD,_
+_,MXN/USD,_
+_,MXN/VES,_
+_,MXN/XAF,_
+_,MXN/XCD,_
+_,MXN/XOF,_
+_,NOK/MXN,_
+_,NZD/MXN,_
+_,PHP/MXN,_
+_,PLN/MXN,_
+_,RUB/MXN,_
+_,SAR/MXN,_
+_,SEK/MXN,_
+_,THB/MXN,_
+_,TRY/MXN,_
+_,TWD/MXN,_
+_,VES/MXN,_
+_,ZAR/MXN,_
+_,PYG/MXN,_
+_,UYU/MXN,_
+_,PEN/MXN,_
+_,MXN/PYG,_
+_,MXN/UYU,_
+_,MXN/PEN,_
+_,MYR/NZD,_
+_,MYR/PKR,_
+_,MYR/SGD,_
+_,MYR/THB,_
+_,MYR/TWD,_
+_,MYR/ZAR,_
+_,NZD/MYR,_
+_,SGD/MYR,_
+_,USD/MYR,_
+_,ZAR/MYR,_
+_,NOK/MYR,_
+_,PHP/MYR,_
+_,PLN/MYR,_
+_,RUB/MYR,_
+_,SAR/MYR,_
+_,SEK/MYR,_
+_,THB/MYR,_
+_,TRY/MYR,_
+_,TWD/MYR,_
+_,VES/MYR,_
+_,MYR/USD,_
+_,USD/MZN,_
+_,USD/NAD,_
+_,NOK/NAD,_
+_,NZD/NAD,_
+_,PHP/NAD,_
+_,PLN/NAD,_
+_,RUB/NAD,_
+_,SAR/NAD,_
+_,SEK/NAD,_
+_,SGD/NAD,_
+_,THB/NAD,_
+_,TRY/NAD,_
+_,TWD/NAD,_
+_,VES/NAD,_
+_,ZAR/NAD,_
+_,USD/NGN,_
+_,USD/NIO,_
+_,NIO/USD,_
+_,USD/NOK,_
+_,NOK/SEK,_
+_,SEK/NOK,_
+_,ZAR/NOK,_
+_,NOK/NPR,_
+_,NOK/NZD,_
+_,NOK/OMR,_
+_,NOK/PAB,_
+_,NOK/PHP,_
+_,NOK/PKR,_
+_,NOK/PLN,_
+_,NOK/QAR,_
+_,NOK/RON,_
+_,NOK/RUB,_
+_,NOK/SAR,_
+_,NOK/SGD,_
+_,NOK/THB,_
+_,NOK/TRY,_
+_,NOK/TWD,_
+_,NOK/USD,_
+_,NOK/VES,_
+_,NOK/XAF,_
+_,NOK/XCD,_
+_,NOK/XOF,_
+_,NOK/ZAR,_
+_,NZD/NOK,_
+_,PHP/NOK,_
+_,PLN/NOK,_
+_,RUB/NOK,_
+_,SAR/NOK,_
+_,SGD/NOK,_
+_,THB/NOK,_
+_,TRY/NOK,_
+_,TWD/NOK,_
+_,VES/NOK,_
+_,NOK/RUB,_
+_,USD/NPR,_
+_,NZD/NPR,_
+_,PHP/NPR,_
+_,PKR/NPR,_
+_,PLN/NPR,_
+_,RUB/NPR,_
+_,SAR/NPR,_
+_,SEK/NPR,_
+_,SGD/NPR,_
+_,THB/NPR,_
+_,TRY/NPR,_
+_,TWD/NPR,_
+_,VES/NPR,_
+_,ZAR/NPR,_
+_,NZD/USD,_
+_,NZD/PLN,_
+_,NZD/SEK,_
+_,NZD/THB,_
+_,NZD/ZAR,_
+_,NZD/SGD,_
+_,NZD/PKR,_
+_,NZD/TWD,_
+_,SGD/NZD,_
+_,USD/NZD,_
+_,NZD/OMR,_
+_,NZD/PAB,_
+_,NZD/PHP,_
+_,NZD/QAR,_
+_,NZD/RON,_
+_,NZD/RUB,_
+_,NZD/SAR,_
+_,NZD/TRY,_
+_,NZD/VES,_
+_,NZD/XAF,_
+_,NZD/XCD,_
+_,NZD/XOF,_
+_,PLN/NZD,_
+_,SAR/NZD,_
+_,SEK/NZD,_
+_,TRY/NZD,_
+_,TWD/NZD,_
+_,VES/NZD,_
+_,ZAR/NZD,_
+_,OMR/PKR,_
+_,USD/OMR,_
+_,PLN/OMR,_
+_,SAR/OMR,_
+_,SEK/OMR,_
+_,SGD/OMR,_
+_,TRY/OMR,_
+_,TWD/OMR,_
+_,VES/OMR,_
+_,ZAR/OMR,_
+_,USD/PAB,_
+_,PLN/PAB,_
+_,SAR/PAB,_
+_,SEK/PAB,_
+_,SGD/PAB,_
+_,TRY/PAB,_
+_,TWD/PAB,_
+_,VES/PAB,_
+_,ZAR/PAB,_
+_,USD/PEN,_
+_,PYG/PEN,_
+_,PEN/PYG,_
+_,UYU/PEN,_
+_,PEN/UYU,_
+_,VES/PEN,_
+_,PEN/VES,_
+_,PEN/USD,_
+_,USD/PGK,_
+_,USD/PHP,_
+_,ZAR/PHP,_
+_,PHP/PKR,_
+_,PHP/RUB,_
+_,PHP/SEK,_
+_,PHP/THB,_
+_,PHP/TRY,_
+_,PHP/XAF,_
+_,PHP/XOF,_
+_,PHP/ZAR,_
+_,PKR/PHP,_
+_,PLN/PHP,_
+_,RUB/PHP,_
+_,SAR/PHP,_
+_,SEK/PHP,_
+_,SGD/PHP,_
+_,THB/PHP,_
+_,TRY/PHP,_
+_,TWD/PHP,_
+_,VES/PHP,_
+_,PHP/USD,_
+_,QAR/PHP,_
+_,QAR/PKR,_
+_,SAR/PKR,_
+_,SGD/PKR,_
+_,THB/PKR,_
+_,TWD/PKR,_
+_,USD/PKR,_
+_,ZAR/PKR,_
+_,PKR/RUB,_
+_,PKR/THB,_
+_,PKR/XAF,_
+_,PKR/XOF,_
+_,PLN/PKR,_
+_,RUB/PKR,_
+_,SEK/PKR,_
+_,TRY/PKR,_
+_,VES/PKR,_
+_,USD/PLN,_
+_,SEK/PLN,_
+_,SGD/PLN,_
+_,PLN/QAR,_
+_,PLN/RON,_
+_,PLN/RUB,_
+_,PLN/SAR,_
+_,PLN/SEK,_
+_,PLN/SGD,_
+_,PLN/THB,_
+_,PLN/TRY,_
+_,PLN/TWD,_
+_,PLN/USD,_
+_,PLN/VES,_
+_,PLN/XAF,_
+_,PLN/XCD,_
+_,PLN/XOF,_
+_,PLN/ZAR,_
+_,RUB/PLN,_
+_,SAR/PLN,_
+_,TRY/PLN,_
+_,TWD/PLN,_
+_,VES/PLN,_
+_,ZAR/PLN,_
+_,UAH/PLN,_
+_,PLN/UAH,_
+_,PLN/RUB,_
+_,USD/PYG,_
+_,PYG/UYU,_
+_,UYU/PYG,_
+_,VES/PYG,_
+_,PYG/VES,_
+_,PYG/USD,_
+_,USD/QAR,_
+_,RUB/QAR,_
+_,SAR/QAR,_
+_,SEK/QAR,_
+_,SGD/QAR,_
+_,THB/QAR,_
+_,TRY/QAR,_
+_,TWD/QAR,_
+_,VES/QAR,_
+_,ZAR/QAR,_
+_,USD/RON,_
+_,RON/RUB,_
+_,SAR/RON,_
+_,SEK/RON,_
+_,SGD/RON,_
+_,TRY/RON,_
+_,TWD/RON,_
+_,VES/RON,_
+_,ZAR/RON,_
+_,RON/RUB,_
+_,USD/RSD,_
+_,USD/RUB,_
+_,RUB/SAR,_
+_,RUB/SEK,_
+_,RUB/THB,_
+_,RUB/TRY,_
+_,RUB/TWD,_
+_,RUB/USD,_
+_,RUB/VES,_
+_,RUB/XAF,_
+_,RUB/XOF,_
+_,RUB/ZAR,_
+_,SAR/RUB,_
+_,SEK/RUB,_
+_,SGD/RUB,_
+_,THB/RUB,_
+_,TRY/RUB,_
+_,TWD/RUB,_
+_,VES/RUB,_
+_,ZAR/RUB,_
+_,RUB/UAH,_
+_,UAH/RUB,_
+_,USD/RUB,_
+_,RUB/VND,_
+_,TMT/RUB,_
+_,SDR/RUB,_
+_,TJS/RUB,_
+_,UZS/RUB,_
+_,SEK/RUB,_
+_,SGD/RUB,_
+_,TJS/RUB,_
+_,TMT/RUB,_
+_,TRY/RUB,_
+_,UAH/RUB,_
+_,USD/RUB,_
+_,UZS/RUB,_
+_,SDR/RUB,_
+_,ZAR/RUB,_
+_,USD/RUB,_
+_,USD/RWF,_
+_,USD/SAR,_
+_,SAR/SEK,_
+_,SAR/SGD,_
+_,SAR/THB,_
+_,SAR/TRY,_
+_,SAR/TWD,_
+_,SAR/USD,_
+_,SAR/VES,_
+_,SAR/XAF,_
+_,SAR/XCD,_
+_,SAR/XOF,_
+_,SAR/ZAR,_
+_,SEK/SAR,_
+_,SGD/SAR,_
+_,THB/SAR,_
+_,TRY/SAR,_
+_,TWD/SAR,_
+_,VES/SAR,_
+_,ZAR/SAR,_
+_,USD/SCR,_
+_,USD/SDG,_
+_,USD/SEK,_
+_,SEK/SGD,_
+_,SEK/THB,_
+_,SEK/TRY,_
+_,SEK/TWD,_
+_,SEK/USD,_
+_,SEK/VES,_
+_,SEK/XAF,_
+_,SEK/XCD,_
+_,SEK/XOF,_
+_,SEK/ZAR,_
+_,SGD/SEK,_
+_,THB/SEK,_
+_,TRY/SEK,_
+_,TWD/SEK,_
+_,VES/SEK,_
+_,ZAR/SEK,_
+_,USD/SGD,_
+_,SGD/THB,_
+_,SGD/TWD,_
+_,SGD/USD,_
+_,SGD/ZAR,_
+_,SGD/TRY,_
+_,SGD/VES,_
+_,SGD/XAF,_
+_,SGD/XCD,_
+_,SGD/XOF,_
+_,TRY/SGD,_
+_,TWD/SGD,_
+_,VES/SGD,_
+_,ZAR/SGD,_
+_,USD/SOS,_
+_,USD/STN,_
+_,USD/SVC,_
+_,USD/SYP,_
+_,SYP/USD,_
+_,USD/SZL,_
+_,USD/THB,_
+_,THB/TWD,_
+_,TWD/THB,_
+_,ZAR/THB,_
+_,THB/TRY,_
+_,THB/XAF,_
+_,THB/XOF,_
+_,THB/ZAR,_
+_,TRY/THB,_
+_,VES/THB,_
+_,THB/USD,_
+_,USD/TJS,_
+_,USD/TMT,_
+_,USD/TND,_
+_,USD/TRY,_
+_,TRY/ZAR,_
+_,TRY/TWD,_
+_,TRY/USD,_
+_,TRY/VES,_
+_,TRY/XAF,_
+_,TRY/XCD,_
+_,TRY/XOF,_
+_,TWD/TRY,_
+_,VES/TRY,_
+_,ZAR/TRY,_
+_,SDR/TRY,_
+_,XAGg/TRY,_
+_,TRY/UAH,_
+_,USD/TTD,_
+_,USD/TWD,_
+_,ZAR/TWD,_
+_,TWD/USD,_
+_,TWD/VES,_
+_,TWD/XAF,_
+_,TWD/XCD,_
+_,TWD/XOF,_
+_,TWD/ZAR,_
+_,VES/TWD,_
+_,USD/TZS,_
+_,USD/UAH,_
+_,UAH/USD,_
+_,USD/UGX,_
+_,USD/ZAR,_
+_,USD/UYU,_
+_,USD/UZS,_
+_,USD/VES,_
+_,USD/VND,_
+_,USD/VUV,_
+_,USD/XAF,_
+_,USD/XCD,_
+_,USD/XOF,_
+_,USD/XPF,_
+_,USD/YER,_
+_,USD/ZMW,_
+_,VES/USD,_
+_,ZAR/USD,_
+_,UYU/USD,_
+_,VND/USD,_
+_,XBR/USD,_
+_,XAGg/USD,_
+_,VES/UYU,_
+_,UYU/VES,_
+_,VES/XAF,_
+_,VES/XCD,_
+_,VES/XOF,_
+_,VES/ZAR,_
+_,ZAR/VES,_
+_,VND/XAF,_
+_,ZAR/XAF,_
+_,ZAR/XCD,_
+_,ZAR/XOF,_
+_,XAU/USD,_
+_,XAG/USD,_
